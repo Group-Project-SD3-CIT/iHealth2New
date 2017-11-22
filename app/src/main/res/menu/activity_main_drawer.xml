@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_login"
+            android:title="Admin Login" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:title="Music" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:title="Lights" />
+        <item
+            android:id="@+id/nav_manage"
+            android:title="Heating" />
+
+        <item
+            android:id="@+id/nav_manage"
+            android:title="Camera" />
+
+        <item
+            android:id="@+id/nav_manage"
+            android:title="TakeAway" />
+
+        <item
+            android:id="@+id/nav_manage"
+            android:title="Groceries" />
+
+        <item
+            android:id="@+id/nav_manage"
+            android:title="Taxi" />
+
+        <item
+            android:id="@+id/nav_manage"
+            android:title="Taxi" />
+
+        <item
+            android:id="@+id/nav_manage"
+            android:title="Memory Game" />
+
+        <item
+            android:id="@+id/nav_manage"
+            android:title="Calendar" />
+    </group>
+
+
+
+</menu>
